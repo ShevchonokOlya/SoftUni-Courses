@@ -1,2 +1,1 @@
-SoftUni Python Courses
-Version from PyCharm
+SoftUni Python Courses 

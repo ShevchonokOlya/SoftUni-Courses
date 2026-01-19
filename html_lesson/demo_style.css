@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+    font-size: 42px;
+    text-align: center;
+}
+
+.coloring {
+    color: green;
+}
+
+#importantHeading {
+    color: yellow;
+}
